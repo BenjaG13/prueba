@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+}
+.container{
+    margin: 0 auto;
+    background-color: aqua;
+}
+.centro{
+    text-align: center;
+    
+}
+.colum{
+    width: 400px;
+    background-color: #656665;
+    border: 3px solid blue;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 8px #000;
+}
